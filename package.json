@@ -1,0 +1,23 @@
+{
+  "name": "javascript_game_development_course_for_beginners",
+  "version": "1.0.0",
+  "description": "Found on Youtube by FreeCodeCamp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rtaveras824/Javascript_Game_Development_Course_For_Beginners.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rtaveras824/Javascript_Game_Development_Course_For_Beginners/issues"
+  },
+  "homepage": "https://github.com/rtaveras824/Javascript_Game_Development_Course_For_Beginners#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
